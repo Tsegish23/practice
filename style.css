@@ -1,0 +1,24 @@
+.heading{
+color: blue;
+font-size: 30px;
+font-weight: 700;
+text-transform:uppercase;
+}
+
+.signin{
+    padding: 10px;
+}
+.register{
+    padding: 10px;
+    margin: 20px;
+}
+.tsegay{
+    color: green;
+}
+#ashenafi{
+    color: red;
+    
+}
+p{
+    font-size: 20px;
+}
